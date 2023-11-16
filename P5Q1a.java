@@ -60,6 +60,7 @@ public class P5Q1a {
 
         System.out.println("Serching for Mike's phoneNumber");
         System.out.println(ContactX.phoneNumber);
+        System.out.println(ContactX.email);
 
 
 
